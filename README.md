@@ -6,8 +6,8 @@ Thank you for every request from you guy, this is what we have to do 0.0
 3) Use it wisely, don't just copy-paste -_-
 4) I haven't comment it yet but if you need full explaination you can request or contact me directly
 
-sharepoint -
-github -
+sharepoint - https://github.com/ChampInMyThought/Computer-Science-Assignments/blob/main/README.md
+github - https://github.com/ChampInMyThought/Computer-Science-Assignments/.md
 
 Contributors
     - ChampInMyThought
