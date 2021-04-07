@@ -20,18 +20,27 @@ int main()
     }
     createBoard(tab,mine,num,length,width);
     int r,c;
-
-    int status=1;
-    while(status!=0 && left>num)
+    int status = 0;
+    while(status != -1)
     {
+        int left = 0;
+        for(int a=1;a<=length;a++)
+        {
+            for(int b=1;b<=width;b++)
+            {
+                if(board[a][b] == '*') left++;
+            }
+        }
+        printf("%d\n",left);  // DEBUG
+
         if(left==num){
-             printf("Victory");
+             printf("--VICTORY--");
              break;
         }
         int r,c;
         scanf(" %d %d",&r,&c);
         status = revealSquare(tab,board,r,c,length,width,left);
-        if(status == 0) break;
+        if(left == -1) break;
         for(int a=1;a<=length;a++)
         {
             for(int b=1;b<=width;b++)
@@ -40,7 +49,6 @@ int main()
             }
             printf("\n");
         }
-        if(left == num) printf("-- VICTORY --");
     }
 }
 
