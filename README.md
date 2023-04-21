@@ -1,16 +1,12 @@
-# Computer-Science-Assignments
-Thank you for every request from you guy, this is what we have to do 0.0
+# Computer Science Assignments
+Thank you for your requests, everyone! Below you'll find the code solutions for each week of Computer Science with T'Prompong:
 
-1) All of the code is the solution of every week of Computer Science with T'Prompong
-2) Feel free to share and pull request the code if needed
-3) Use it wisely, don't just copy-paste -_-
-4) I haven't comment it yet but if you need full explaination you can request or contact me directly
+All code is provided for each week.
+- Feel free to share and submit pull requests if necessary.
+- Please use the code responsibly and avoid simply copy-pasting.
+- The code has not been commented yet, but if you require a full explanation, please request or contact me directly.
 
-Sharepoint - https://github.com/ChampInMyThought/Computer-Science-Assignments/blob/main/README.md
-
-Github - https://github.com/ChampInMyThought/Computer-Science-Assignments/.md
-
-Contributors
-    - ChampInMyThought
-    - Uncle Great
-    - SMheeyGol
+🌟 Contributors:
+- ChampInMyThought
+- Uncle Great
+- SMheeyGol
